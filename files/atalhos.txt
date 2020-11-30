@@ -1,0 +1,10 @@
+--Atalhos
+Alt+Shift+Seta Baixo = duplica linha
+Alt+Seta = move a linha
+Ctrl+Shift+K = deleta linha
+Ctrl+G = ir para uma linha especifica
+Ctrl+P = busca de arquivos
+Ctrl+D = altera o nome de todas as palavras selecionadas
+
+--Criar projeto
+npm init -y
